@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhinav-bharti-max Age 13 Years
+- 👋 Hi, I’m @abhinav-bharti-max 13 Years old. 3rd November 2011
 - 👀 I’m interested in web developing
 - 🌱 I’m currently lerning web developing, Html, css, Java Script
 - 💞️ I’m looking to collaborate on github
